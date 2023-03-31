@@ -1,0 +1,36 @@
+Excel Assignments 
+
+
+Excel Assignment 1: 
+
+1. What do you mean by cells in an excel sheet?
+2. How can you restrict someone from copying a cell from your worksheet?
+3. How to move or copy the worksheet into another workbook?
+4. Which key is used as a shortcut for opening a new window document?
+5. What are the things that we can notice after opening the Excel interface?
+6. When to use a relative cell reference in excel?
+
+
+
+1: Excel is a spreadsheet , which contains rows and columns 
+So particularly referring in a spreadsheet is  cell .
+
+
+2.In order to protect your worksheet from getting copied, you need to go into Menu bar >Review > Protect sheet > Password. 
+By entering password, 
+you can secure your worksheet from getting copied by others.
+
+
+3.Click the sheet that you want to copy. On the Edit menu, click Sheet > Move or Copy Sheet. 
+
+4.To quickly create a new window document  file  press Ctrl+N as a shortcut from keyboard
+
+5.Title Bar – contains the name of the workbook. ...
+  Worksheet Tabs – a list of all the worksheets in the workbook.
+The rectangular grid of rows and columns described in Excel Spreadsheets is only one part of the Excel user interface.
+
+
+6.Relative reference is a type of cell reference in Excel. 
+This reference changes when the formula is copied to any other cell or any other worksheet. 
+Relative cell references are used whenever calculations need to be repeated.
+
