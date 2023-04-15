@@ -1,0 +1,45 @@
+1. How many types of conditions are available in conditional formatting on Excel?
+2. How to insert border in Excel with Format Cells dialog?
+3. How to Format Numbers as Currency in Excel?
+4. What are the steps to format numbers in Excel with the Percent style?
+5. What is a shortcut to merge two or more cells in excel?
+6. How do you use text commands in Excel?
+
+
+
+1.How many types of conditions are available in conditional formatting on Excel?
+There are actually four conditional formats that can be specified,
+Conditional formatting makes it easy to highlight certain values or make particular cells easy to identify. 
+This changes the appearance of a cell range based on a condition (or criteria). 
+You can use conditional formatting to highlight cells that contain values which meet a certain condition.
+
+
+2.How to insert border in Excel with Format Cells dialog?
+Click Home : the Borders arrow .
+Pick Draw Borders for outer borders or Draw Border Grid for gridlines.
+Click the Borders arrow : Line Color arrow, and then pick a color.
+Click the Borders arrow : Line Style arrow, and then pick a line style.
+Select cells you want to draw borders around.
+
+3.How to Format Numbers as Currency in Excel?
+Select the cells that you want to format and then, in the Number group on the Home tab, 
+click the down arrow in the Number Format box. Choose either Currency or Accounting.
+
+4.What are the steps to format numbers in Excel with the Percent style?
+On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box. 
+In the Format Cells dialog box, in the Category list, click Percentage.
+
+5. What is a shortcut to merge two or more cells in excel?
+
+(Merge Cells :Excel Shortcut key  ALT H+M+M)
+
+6.How do you use text commands in Excel?
+text commands in excel used for finding LEN, TRIM, UPPER, LOWER, PROPER & Etc
+
+
+
+
+
+
+
+
