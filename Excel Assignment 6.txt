@@ -1,0 +1,65 @@
+1. What are the various elements of the Excel interface? Describe how
+they're used.
+2. Write down the various applications of Excel in the industry.
+3. On the ribbon, make a new tab. Add some different groups, insert
+commands in the groups and name them according to their commands
+added. Copy and paste the screenshot of the steps you followed.
+4. Make a list of different shortcut keys that are only connected to
+formatting with their functions.
+5. What distinguishes Excel from other analytical tools?
+6. Create a table and add a custom header and footer to your table.
+
+
+
+
+1.What are the various elements of the Excel interface? Describe how
+they're used.
+Formula Bar	:View, enter, or edit cell contents
+Insert Function :Button	Displays Insert Function dialog box
+Scroll Bars	:Used to navigate up, down, left & right
+Zoom Slider	:Zoom into an area of the worksheet
+
+
+
+2.Write down the various applications of Excel in the industry.
+Businesses use Excel for budgeting, analysis, forecasting, spotting trends, reporting, and more.
+
+3.On the ribbon, make a new tab. Add some different groups, insert
+commands in the groups and name them according to their commands
+added. Copy and paste the screenshot of the steps you followed.
+
+Go to File > Options > Customize Ribbon.
+Right-click on the ribbon and select Customize the Ribbon… from the context menu:
+In the Customize the Ribbon window, under the list of tabs, click the New Tab button.
+Select the newly created tab, named New Tab (Custom), and click the Rename… button to give your tab an appropriate name.
+When done, click OK to save the changes.
+
+
+
+4.Make a list of different shortcut keys that are only connected to
+formatting with their functions.
+Bold text or remove bold formatting.	 Ctrl+B
+Apply or remove strikethrough formatting:Ctrl+5
+Open the Insert hyperlink dialog box.    Ctrl+K
+Select the entire worksheet.             Ctrl+A 
+
+
+
+5.What distinguishes Excel from other analytical tools?
+ Excel allows you to clean and explore data, as well as add advanced data analytics capabilities,
+ through data analysis tools like Power Query, Auto Filter, Power Pivot and Power Maps
+
+
+6. Create a table and add a custom header and footer to your table.
+On the Insert tab, in the Text group, click Header & Footer. Excel displays the Page Setup dialog box. 
+Click Custom Header or Custom Footer. 
+Use the buttons in the Header or Footer dialog box to insert specific header and footer elements.
+
+
+
+
+
+
+
+
+
