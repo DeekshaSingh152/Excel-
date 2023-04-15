@@ -1,0 +1,51 @@
+1. To use the ribbon commands, what menu and grouping of commands will you
+find the Insert and Delete command?
+2. If you set a row height or column width to 0 (zero), what happens to the row and
+column?
+3. Is there a need to change the height and width in a cell? Why?
+4. What is the keyboard shortcut to unhide rows?
+5. How to hide rows containing blank cells?
+6. What are the steps to hide the duplicate values using conditional formatting in
+excel?
+
+
+
+1.To use the ribbon commands, what menu and grouping of commands will you
+find the Insert and Delete command?
+
+The insert , delete and format commands are present under insert group of home tab.
+
+2.If you set a row height or column width to 0 (zero), what happens to the row and
+column?
+If you set a row height or column width to 0 (zero), It sets to the default width or height.
+
+
+3.Is there a need to change the height and width in a cell? Why?
+while preparing reports, creating data tables, or doing other calculations, you often need to alter the width of a column. 
+And, by increasing your columns wider, you can easily get the visibility of the whole data on your sheet.
+
+
+4. What is the keyboard shortcut to unhide rows?
+Ctrl + Shift + 9 is the shortcut for to unhide thr rows.
+
+
+5. How to hide rows containing blank cells?
+
+Select the range that contains empty cells you want to hide.
+On the Home tab, in the Editing group, click Find & Select  Go To Special.
+In the Go To Special dialog box, select the Blanks radio button, and click OK
+Press Ctrl + 9 to hide the corresponding rows.
+
+
+6. What are the steps to hide the duplicate values using conditional formatting in
+excel?
+Select the cells you want to check for duplicates.
+Click Home > Conditional Formatting > Highlight Cells Rules > Duplicate Values.
+In the box next to values with, pick the formatting you want to apply to the duplicate values, and then click OK.
+
+
+
+
+
+
+
